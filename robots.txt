@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RonakSingh619.github.io/my-portfolio/sitemap.xml
